@@ -1,11 +1,11 @@
 <?php
- session_start();
+//  session_start();
 
- if (!isset($_SESSION['username'])) {
+//  if (!isset($_SESSION['username'])) {
 
-     header('Location: user-login.php');
-     exit(); 
- }
+//      header('Location: user-login.php');
+//      exit(); 
+//  }
 
 ?>
 
